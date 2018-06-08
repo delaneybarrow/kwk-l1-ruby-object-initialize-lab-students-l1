@@ -2,7 +2,7 @@
 
 #CREATE A HASH
 
-def group_name {
+group_name = {
   :delaney => ["sunflower", "all of the lights", "loving is easy"],
   :braelyn => ["mine", "bad at love", "mad world"],
   :victoria => [""]
